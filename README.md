@@ -4,7 +4,11 @@ A responsive personal portfolio website hosted using **Microsoft Azure Blob Stor
 
 ## Live Demo
 
-🔗 https://mbzcloudportfolio.z1.web.core.windows.net/
+Azure:
+https://mbzcloudportfolio.z1.web.core.windows.net/
+
+Vercel:
+https://YOURPROJECT.vercel.app
 
 ## Features
 
