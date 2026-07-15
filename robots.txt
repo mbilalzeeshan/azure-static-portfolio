@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://azure-static-portfolio.vercel.app/sitemap.xml
+Sitemap: https://mbilalzeeshanvercel.app/sitemap.xml
